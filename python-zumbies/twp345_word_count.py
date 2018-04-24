@@ -1,4 +1,4 @@
-import string
+import string 
 
 file_ = open('alice.txt')
 text = file_.read()
