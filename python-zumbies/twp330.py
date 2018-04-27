@@ -19,6 +19,6 @@ for ip in arquivo_ips.readlines():
 arquivo_ips.close()   
 ips_validos.close()            
 ips_invalidos.close()            
-          
+
 
     
